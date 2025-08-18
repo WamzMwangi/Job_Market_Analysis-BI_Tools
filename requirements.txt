@@ -4,3 +4,6 @@ pandas
 numpy
 ipykernel
 webdriver-manager
+spacy
+matplotlib
+seaborn
